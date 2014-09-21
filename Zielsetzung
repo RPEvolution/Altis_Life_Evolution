@@ -7,7 +7,7 @@
 - Arbeitsstellen? Quest?										s
 - Waffen abnahme wie BL auch für Sondergruppen ( Security; Admin; Donators)				s
 - BL Permsystem												s
-- Perm gangs												s
+- Perm gangs												s               erledigt
 - Medic ( krankentransport)(bei Tod spawnen nur beim krankenhaus möglich)(Ticketsystem)			s
 - ADAC ( timer falls kein member online ist)(Ticketsystem)						s
 - Spawnen nicht in der stadt nicht möglich in der du gestorben bist (5 Minutenregel)			s
@@ -16,13 +16,13 @@
 - Rebellengebiet = BL											s
 - Tutorial Handbuch											s
 - Alle Gegenstände Rein( Titan/Bewaffnete Hubschrauber/ Panzer etc.)					s
-- Map kontrollieren											m
+- Map kontrollieren											m           erledigt siehe NPCS going Wild
 - Übersetzen Script / Map										m
 - Jobs? Produkte?											s
 - Eroberung für Kartelle (Quelle/Verarbeiter/Händler (Illegal))						s
 - Schwierigkeitsstufen											s
 - Neuer Platz Bank / Knast										s
-- Benutzeroberfläche (Bilder/ Info's etc.)								s
+- Benutzeroberfläche (Bilder/ Info's etc.)		s   gestartet; Smartphone inkl.
 - craften??												s
 - Geo cachen - Forum (box oder ähnliches vom admin als final)						f
 - Regelwerk in ruhe von allen seiten betrachten / Wasserdicht schreiben					s
@@ -30,16 +30,16 @@
 - RPG / Life												s
 - fast rope												s
 - Limit Geld												s
-- Marktsystem
+- Marktsystem                                     erledigt; testen!
 - Springen?
-- Skins / Gear Fraktionen
+- Skins / Gear Fraktionen                         erledigt
 - Fahrzeuge begrenzen in der Anzahl
 - PVP Zone
 - Save Gear weapon
-- Sound Fahrzeugtür / Alarmanalge
-- shortcut mining
-- Admintool
-- PW Server
+- Sound Fahrzeugtür / Alarmanalge                 gestartet
+- shortcut mining                                 erledigt
+- Admintool                                       gestartet; ID fehlt; Anti-Cheat Tool auf admin anpassen
+- PW Server                                       erledigt
 - Spectatemode Admin
 - Broadcast Admin joined
 - ID Anzeige Gang im Admin
