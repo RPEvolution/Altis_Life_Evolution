@@ -11,13 +11,13 @@ class Difficulties
            {
 	    
 	Armor=1;		// Gives you improved body armor, tank armor etc
-	FriendlyTag=1;		// Displays information on friendly units. ONLY WORKS WITH 'Weaponcursor=0', eg crosshair on.
-	EnemyTag=1;		// Displays information on enemy units
+	FriendlyTag=0;		// Displays information on friendly units. ONLY WORKS WITH 'Weaponcursor=0', eg crosshair on.
+	EnemyTag=0;		// Displays information on enemy units
 	HUD=1;			// Shows you leaders location and your position in formation
 	HUDPerm=1;		// Shows HUD permanently
 	HUDWp=1;		// Shows Waypoints right after they're ordered to you
 	HUDWpPerm=1;		// Shows Waypoints permanently
-	WeaponCursor=1;		// Shows the crosshair for your weapon
+	WeaponCursor=0;		// Shows the crosshair for your weapon
 	AutoAim=1;		// Enables auto aim when you're not looking through your weapon's scope. Also works with crosshair off
 	AutoGuideAT=1;		// AT missiles will be automatically guided to their target. If 0, player has to lock onto the target.
 	3rdPersonView=1;	// This turns 3rd(third) person view and group leader view on or off. Please never talk of this as "3D view" - ArmA is not an arcade game !
@@ -50,7 +50,7 @@ class Difficulties
 	    HUDPerm=0;
 	    HUDWp=1;
 	    HUDWpPerm=1;
-	    WeaponCursor=1;
+	    WeaponCursor=0;
 	    AutoAim=0;
 	    AutoGuideAT=0;
 	    3rdPersonView=1;
