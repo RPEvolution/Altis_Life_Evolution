@@ -1,0 +1,141 @@
+/*
+Example ArmA2Profile configuration file
+by [KH]Jman, 1st July 2009.  http://www.kellys-heroes.eu 
+*/
+
+class Difficulties
+{
+    class Recruit
+    {
+          class Flags
+           {
+	    
+	Armor=1;		// Gives you improved body armor, tank armor etc
+	FriendlyTag=1;		// Displays information on friendly units. ONLY WORKS WITH 'Weaponcursor=0', eg crosshair on.
+	EnemyTag=1;		// Displays information on enemy units
+	HUD=1;			// Shows you leaders location and your position in formation
+	HUDPerm=1;		// Shows HUD permanently
+	HUDWp=1;		// Shows Waypoints right after they're ordered to you
+	HUDWpPerm=1;		// Shows Waypoints permanently
+	WeaponCursor=1;		// Shows the crosshair for your weapon
+	AutoAim=1;		// Enables auto aim when you're not looking through your weapon's scope. Also works with crosshair off
+	AutoGuideAT=1;		// AT missiles will be automatically guided to their target. If 0, player has to lock onto the target.
+	3rdPersonView=1;	// This turns 3rd(third) person view and group leader view on or off. Please never talk of this as "3D view" - ArmA is not an arcade game !
+	ClockIndicator=1;	// Displays the clock indicator on the left of your screen when giving/receiving orders like "At 11 o'clock, enemy man at 200 meters"
+	Map=1;			// Shows symbols for all objects known to your gruop on the map. This will NOT disable the map itself !
+	Tracers=1;		// Displays tracers even of small arms that in real life would not have tracers
+	AutoSpot=1;		// If you're close enough to an enemy, you'll report it without right-clicking
+	UltraAI=0;		// Enables super AI, hear and see more and increased tactics. This is for both friendly and enemy sides.
+	DeathMessages=1;	// Displays death messages i.e. playerA kill playerB
+	NetStats=1;		// Displays score board
+	VonID=1;		// Displays VON player name in window
+       
+	
+           };
+	  // These are the skills. Value may range from 0.000000 to 1.000000
+	  skillFriendly=0.34999999;
+	  skillEnemy=0.34999999;
+	  precisionFriendly=0.20;
+	  precisionEnemy=0.20;
+    };
+    
+    class Regular
+    {
+	class Flags
+	{
+	    Armor=1;
+	    FriendlyTag=0;
+	    EnemyTag=0;
+	    HUD=1;
+	    HUDPerm=0;
+	    HUDWp=1;
+	    HUDWpPerm=1;
+	    WeaponCursor=1;
+	    AutoAim=0;
+	    AutoGuideAT=0;
+	    3rdPersonView=1;
+	    ClockIndicator=1;
+	    Map=1;
+	    Tracers=1;
+	    AutoSpot=0;
+	    UltraAI=0;
+	    DeathMessages=1;	
+	    NetStats=1;		
+	    VonID=1;		
+	};
+	skillFriendly=0.44999999;
+	skillEnemy=0.44999999;
+	precisionFriendly=0.35;
+	precisionEnemy=0.35;
+    };
+    class Veteran
+    {
+	class Flags
+	{
+	    Armor=0;
+	    FriendlyTag=0;
+	    EnemyTag=0;
+	    HUD=1;
+	    HUDPerm=0;
+	    HUDWp=1;
+	    HUDWpPerm=1;
+	    WeaponCursor=0;
+	    AutoAim=0;
+	    AutoGuideAT=0;
+	    3rdPersonView=0;
+	    ClockIndicator=1;
+	    Map=0;
+	    Tracers=1;
+	    AutoSpot=0;
+	    UltraAI=0;
+	    DeathMessages=0;	
+	    NetStats=0;	
+	    VonID=1;		
+	};
+	skillFriendly=0.74999999;
+	skillEnemy=0.74999999;
+	precisionFriendly=0.75;
+	precisionEnemy=0.75;
+    };
+    class Expert
+    {
+	class Flags
+	{
+	    Armor=0;
+	    FriendlyTag=0;
+	    EnemyTag=0;
+	    HUD=1;
+	    HUDPerm=0;
+	    HUDWp=1;
+	    HUDWpPerm=1;
+	    WeaponCursor=0;
+	    AutoAim=0;
+	    AutoGuideAT=0;
+	    3rdPersonView=0;
+	    ClockIndicator=1;
+	    Map=0;
+	    Tracers=1;
+	    AutoSpot=0;
+	    UltraAI=0;
+	    DeathMessages=0;	
+	    NetStats=0;		
+	    VonID=0;		
+	};
+	skillFriendly=0.94999999;
+	skillEnemy=0.94999999;
+	precisionFriendly=0.95;
+	precisionEnemy=0.95;
+    };
+};
+
+
+// Sets the server default view distance.
+// Render distance is 3/4 of view distance - for 2000 metres, objects will be render up to 1500 metres
+// This maybe overidden by the mission 
+viewDistance=2000;
+
+// Sets the server default terrain quality. Very High:10, Low:50
+// This maybe overidden by the mission 
+terrainGrid=25;
+
+// EOF
