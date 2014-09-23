@@ -6,7 +6,7 @@
 - Häuser mieten?											s
 - Arbeitsstellen? Quest?										s
 - Waffen abnahme wie BL auch für Sondergruppen ( Security; Admin; Donators)				s
-- BL Permsystem												s
+- BL Permsystem												s             gestartet
 - Perm gangs												s               erledigt
 - Medic ( krankentransport)(bei Tod spawnen nur beim krankenhaus möglich)(Ticketsystem)			s
 - ADAC ( timer falls kein member online ist)(Ticketsystem)						s
@@ -20,7 +20,7 @@
 - Übersetzen Script / Map										m
 - Jobs? Produkte?											s
 - Eroberung für Kartelle (Quelle/Verarbeiter/Händler (Illegal))						s
-- Schwierigkeitsstufen											s
+- Schwierigkeitsstufen											s     gestartet (^- Taste muss deaktiviert werden)
 - Neuer Platz Bank / Knast										s
 - Benutzeroberfläche (Bilder/ Info's etc.)		s   gestartet; Smartphone inkl.
 - craften??												s
@@ -28,15 +28,15 @@
 - Regelwerk in ruhe von allen seiten betrachten / Wasserdicht schreiben					s
 - Schranke zerstöbar											m
 - RPG / Life												s
-- fast rope												s
-- Limit Geld												s
+- fast rope												s               entfällt / scripts lösen BEC fehler aus
+- Limit Geld												s             gestartet / Reichensteuer, Mieten, usw.
 - Marktsystem                                     erledigt; testen!
-- Springen?
+- Springen?                                       erledigt / wird nur bei Sprint aktiv
 - Skins / Gear Fraktionen                         erledigt
 - Fahrzeuge begrenzen in der Anzahl
 - PVP Zone
-- Save Gear weapon
-- Sound Fahrzeugtür / Alarmanalge                 gestartet
+- Save Gear weapon                                erledigt
+- Sound Fahrzeugtür / Alarmanalge                 erledigt
 - shortcut mining                                 erledigt
 - Admintool                                       gestartet; ID fehlt; Anti-Cheat Tool auf admin anpassen
 - PW Server                                       erledigt
@@ -45,7 +45,7 @@
 - ID Anzeige Gang im Admin
 - Preis Tanken einfügen
 - opening nach Greni Server
-- Gang Member Position Map
+- Gang Member Position Map                        erledigt
 - Handy Ortung Medic / Polizei bei Anruf bzw. SMS (Timer?)
 - Ausrauben von Händler (gestaffelt)
 - Garage Sophia spawner verschieben
