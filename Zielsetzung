@@ -1,5 +1,5 @@
 - Zeiten für Lizenzen											                                                  s
-- Preise realistisch anpassen									                                            	s
+- Preise realistisch anpassen									                                            	gestartet
 - Lohn anpassen												                                                     s
 - Mietgebühren												s
 - Stellplatz? Garage Mieten?										s
@@ -15,13 +15,13 @@
 - Bei Tod verlust Prozentuall (Behandlungskosten)							s
 - Rebellengebiet = BL											s
 - Tutorial Handbuch											s
-- Alle Gegenstände Rein( Titan/Bewaffnete Hubschrauber/ Panzer etc.)					s
+- Alle Gegenstände Rein( Titan/Bewaffnete Hubschrauber/ Panzer etc.)					gestartet
 - Map kontrollieren											m           erledigt siehe NPCS going Wild
 - Übersetzen Script / Map										m
 - Jobs? Produkte?											s
 - Eroberung für Kartelle (Quelle/Verarbeiter/Händler (Illegal))						s
-- Schwierigkeitsstufen											s     gestartet (^- Taste muss deaktiviert werden)
-- Neuer Platz Bank / Knast										s
+- Schwierigkeitsstufen											s     gestartet (Fahrzeug ego perspektive)
+- Neuer Platz Knast										s
 - Benutzeroberfläche (Bilder/ Info's etc.)		s   gestartet; Smartphone inkl.
 - craften??												s
 - Geo cachen - Forum (box oder ähnliches vom admin als final)						f
@@ -29,7 +29,7 @@
 - Schranke zerstöbar											m
 - RPG / Life												s
 - fast rope												s               entfällt / scripts lösen BEC fehler aus
-- Limit Geld												s             gestartet / Reichensteuer, Mieten, usw.
+- Limit Geld												s             erledigt
 - Marktsystem                                     erledigt; testen!
 - Springen?                                       erledigt / wird nur bei Sprint aktiv
 - Skins / Gear Fraktionen                         erledigt
@@ -42,7 +42,7 @@
 - PW Server                                       erledigt
 - Spectatemode Admin
 - Broadcast Admin joined
-- ID Anzeige Gang im Admin
+- ID Anzeige Gang im Admin                        siehe Admintool
 - Preis Tanken einfügen
 - opening nach Greni Server
 - Gang Member Position Map                        erledigt
