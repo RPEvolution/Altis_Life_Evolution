@@ -1,11 +1,11 @@
-- Zeiten für Lizenzen											                                                  s
-- Preise realistisch anpassen									                                            	gestartet
-- Lohn anpassen												                                                     s
+- Zeiten für Lizenzen									s
+- Preise realistisch anpassen					gestartet
+- Lohn anpassen												s
 - Mietgebühren												s
 - Stellplatz? Garage Mieten?										s
 - Häuser mieten?											s
 - Arbeitsstellen? Quest?										s
-- Waffen abnahme wie BL auch für Sondergruppen ( Security; Admin; Donators)				s
+- Waffen abnahme wie BL auch für Sondergruppen ( Security; Admin; Donators)				gestartet
 - BL Permsystem												s             gestartet
 - Perm gangs												s               erledigt
 - Medic ( krankentransport)(bei Tod spawnen nur beim krankenhaus möglich)(Ticketsystem)			s
@@ -15,12 +15,12 @@
 - Bei Tod verlust Prozentuall (Behandlungskosten)							s
 - Rebellengebiet = BL											s
 - Tutorial Handbuch											s
-- Alle Gegenstände Rein( Titan/Bewaffnete Hubschrauber/ Panzer etc.)					gestartet
+- Alle Gegenstände Rein( Titan/Bewaffnete Hubschrauber/ Panzer etc.)				erledigt
 - Map kontrollieren											m           erledigt siehe NPCS going Wild
 - Übersetzen Script / Map										m
 - Jobs? Produkte?											s
 - Eroberung für Kartelle (Quelle/Verarbeiter/Händler (Illegal))						s
-- Schwierigkeitsstufen											s     gestartet (Fahrzeug ego perspektive)
+- Schwierigkeitsstufen											s     erledigt
 - Neuer Platz Knast										s
 - Benutzeroberfläche (Bilder/ Info's etc.)		s   gestartet; Smartphone inkl.
 - craften??												s
@@ -28,12 +28,12 @@
 - Regelwerk in ruhe von allen seiten betrachten / Wasserdicht schreiben					s
 - Schranke zerstöbar											m
 - RPG / Life												s
-- fast rope												s               entfällt / scripts lösen BEC fehler aus
+- fast rope												s               entfällt?? / scripts lösen BEC fehler aus
 - Limit Geld												s             erledigt
 - Marktsystem                                     erledigt; testen!
 - Springen?                                       erledigt / wird nur bei Sprint aktiv
 - Skins / Gear Fraktionen                         erledigt
-- Fahrzeuge begrenzen in der Anzahl
+- Fahrzeuge begrenzen in der Anzahl               erledigt
 - PVP Zone
 - Save Gear weapon                                erledigt
 - Sound Fahrzeugtür / Alarmanalge                 erledigt
@@ -50,3 +50,12 @@
 - Ausrauben von Händler (gestaffelt)
 - Garage Sophia spawner verschieben
 - Telefon Medic Button ändern
+- Polizei Aktionsmenü Falsche Felder deklariert
+- Skill System
+- Adminstadt ( Alle NPCS an einem Ort)
+- Marktsystem speichern
+- Position Spieler speichern
+- perm Wandetliste                                erledigt
+- Handschellen und ergeben
+- Admintool Fahrzeug impound
+
