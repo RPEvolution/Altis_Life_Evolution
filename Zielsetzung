@@ -2,64 +2,64 @@
 - Preise realistisch anpassen					gestartet
 - Lohn anpassen												gestartet
 - Mietgebühren												erledigt
-- Stellplatz? Garage Mieten?					erledigt
-- Häuser mieten?											storniert
-- Arbeitsstellen? Quest?										s
+- Stellplatz? Garage Mieten?					offen
+- Häuser mieten?											offen
+- Arbeitsstellen? Quest?							gestartet
 - Waffen abnahme wie BL auch für Sondergruppen ( Security; Admin)				gestartet/ Wanted eintrag fehlt
 - BL Permsystem												s             gestartet
 - Perm gangs												s               erledigt
-- Medic ( krankentransport)(bei Tod spawnen nur beim krankenhaus möglich)(Ticketsystem)			s
-- ADAC ( timer falls kein member online ist)(Ticketsystem)						s
-- Spawnen nicht in der stadt nicht möglich in der du gestorben bist (5 Minutenregel)			s
-- Gebietseroberung (Polizei)										s
+- Medic ( krankentransport)(bei Tod spawnen nur beim krankenhaus möglich)(Ticketsystem)			später/offen/erledigt über config
+- Werkstatt ( timer falls kein member online ist)(Ticketsystem)						s  offen                   
+- Spawnen nicht in der stadt nicht möglich in der du gestorben bist (5 Minutenregel)			stoniert / Krankenhaus spawnen
+- Gebietseroberung (Polizei)										s             später
 - Bei Tod verlust Prozentuall (Behandlungskosten)							storniert
-- Rebellengebiet = BL											s
-- Tutorial Handbuch											s
+- Rebellengebiet = BL											s                   erledigt
+- Tutorial Handbuch											s                     offen
 - Alle Gegenstände Rein( Titan/Bewaffnete Hubschrauber/ Panzer etc.)				erledigt
-- Map kontrollieren											m           erledigt siehe NPCS going Wild
-- Übersetzen Script / Map										m
-- Jobs? Produkte?											später
+- Map kontrollieren											m         erledigt siehe NPCS going Wild / erledigt
+- Übersetzen Script / Map										m     gestartet
+- Jobs? Produkte?											            später
 - Eroberung für Kartelle (Quelle/Verarbeiter/Händler (Illegal))						später
 - Schwierigkeitsstufen											s     erledigt
-- Neuer Platz Knast										s
+- Neuer Platz Knast										s           erledigt
 - Benutzeroberfläche (Bilder/ Info's etc.)		s   gestartet; Smartphone inkl.
-- craften??												s
+- craften??												s               später
 - Geo cachen - Forum (box oder ähnliches vom admin als final)						später
-- Regelwerk in ruhe von allen seiten betrachten / Wasserdicht schreiben					s
-- Schranke zerstöbar											m
-- RPG / Life												s
+- Regelwerk in ruhe von allen seiten betrachten / Wasserdicht schreiben					offen
+- Schranke zerstöbar											m       storniert
+- RPG / Life												s             gestarten
 - fast rope												s               erledigt
 - Limit Geld												s             gestartet / max 10kk
 - Marktsystem                                     erledigt; testen!
 - Springen?                                       erledigt / wird nur bei Sprint aktiv
 - Skins / Gear Fraktionen                         erledigt
-- Fahrzeuge begrenzen in der Anzahl               
-- PVP Zone = Rebellengebiet
+- Fahrzeuge begrenzen in der Anzahl               später
+- PVP Zone = Rebellengebiet                       storniert / Rebellengebiet
 - Save Gear weapon                                erledigt
 - Sound Fahrzeugtür / Alarmanalge                 erledigt
 - shortcut mining                                 erledigt
 - Admintool                                       gestartet; ID fehlt; Anti-Cheat Tool auf admin anpassen
 - PW Server                                       erledigt
-- Spectatemode Admin
-- Broadcast Admin joined
-- ID Anzeige Gang im Admin                       storniert
-- Preis Tanken einfügen
+- Spectatemode Admin                              offen
+- Broadcast Admin joined                          storniert
+- ID Anzeige Gang im Admin                        storniert
+- Preis Tanken einfügen                           offen
 - opening nach Greni Server                       erledigt
 - Gang Member Position Map                        erledigt
 - Handy Ortung Medic / Polizei bei Anruf bzw. SMS (Timer?)
-- Ausrauben von Händler (gestaffelt)
-- Garage Sophia spawner verschieben
+- Ausrauben von Händler (gestaffelt)              später
+- Garage Sophia spawner verschieben               erledigt
 - Garage zufügen Pyrgos                           erledigt
 - Bruce zufügen Pyrgos                            erledigt
 - Telefon Medic Button ändern
 - Polizei Aktionsmenü Falsche Felder deklariert
-- Skill System
+- Skill System                                    offen
 - Adminstadt ( Alle NPCS an einem Ort)            storniert / Admin Spawn auf Marker
-- Marktsystem speichern
+- Marktsystem speichern                           erledigt
 - Position Spieler speichern
 - perm Wandetliste                                erledigt
 - Handschellen und ergeben
 - Admintool Fahrzeug impound
 - Lizenz entfernung durch Knast                   erledigt
-- waffen looten
-- Fahrzeug config
+- waffen looten                                   erledigt
+- Fahrzeug config                                 später
