@@ -6,9 +6,9 @@
 - Häuser mieten?											offen
 - Arbeitsstellen? Quest?							gestartet
 - Waffen abnahme wie BL auch für Sondergruppen ( Security; Admin)				gestartet/ Wanted eintrag fehlt
-- BL Permsystem												s             gestartet
+- BL Permsystem												s             gestartet/ Fahrzeug skins bestimmung fehlt
 - Perm gangs												s               erledigt
-- Medic ( krankentransport)(bei Tod spawnen nur beim krankenhaus möglich)(Ticketsystem)			später/offen/erledigt über config
+- Medic ( krankentransport)(bei Tod spawnen nur beim krankenhaus möglich)(Ticketsystem)			später/erledigt/erledigt über config
 - Werkstatt ( timer falls kein member online ist)(Ticketsystem)						s  offen                   
 - Spawnen nicht in der stadt nicht möglich in der du gestorben bist (5 Minutenregel)			stoniert / Krankenhaus spawnen
 - Gebietseroberung (Polizei)										s             später
@@ -46,7 +46,7 @@
 - Preis Tanken einfügen                           offen
 - opening nach Greni Server                       erledigt
 - Gang Member Position Map                        erledigt
-- Handy Ortung Medic / Polizei bei Anruf bzw. SMS (Timer?)
+- Handy Ortung Medic / Polizei bei Anruf bzw. SMS (Timer?) später
 - Ausrauben von Händler (gestaffelt)              später
 - Garage Sophia spawner verschieben               erledigt
 - Garage zufügen Pyrgos                           erledigt
@@ -58,8 +58,8 @@
 - Marktsystem speichern                           erledigt
 - Position Spieler speichern                      erledigt
 - perm Wandetliste                                erledigt
-- Handschellen und ergeben
-- Admintool Fahrzeug impound
+- Handschellen und ergeben                        offen
+- Admintool Fahrzeug impound                      erledigt
 - Lizenz entfernung durch Knast                   erledigt
 - waffen looten                                   erledigt
 - Fahrzeug config                                 später
